@@ -1,0 +1,33 @@
+campeonato brasileiro digital
+
+- Pontos corridos
+	- Nao existem grupos
+	- Nao existem mata a mata
+-20 times
+classificacao
+-jogam todos entre todos
+-ganha o que fizer mais pontos
+-cada vitoria vale 3 pontos
+-cada empate vale 1 opnto
+-derrota nao pontua
+
+sao paulo fc
+corinthians
+palmeiras
+santos
+
+===========================================
+
+time: nome, sigla, estado
+jogo: time1, time2, golstime1, golstime2
+classificacao: calculo
+
+===========================================
+
+API / ações 
+
+Cadastrar time
+Listar times
+Calcular classificacao
+Cadastrar jogos
+Colocar resultado dos jogos
